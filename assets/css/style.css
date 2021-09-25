@@ -9,7 +9,7 @@
 /* Hero-banner */
 .parallax-img {
   background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.75)), url("../images/background.jpg");
-  min-height: 52rem;
+  min-height: 55rem;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
